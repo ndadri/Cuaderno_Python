@@ -1,0 +1,138 @@
+|PassengerId|Survived|Pclass|Name|Sex|Age|SibSp|Parch|Ticket|Fare|Cabin|Embarked|AgeGroup
+0|1|0|3|Braund, Mr. Owen Harris|male|22.0|1|0|A/5 21171|7.25||S|E2
+12|13|0|3|Saundercock, Mr. William Henry|male|20.0|0|0|A/5. 2151|8.05||S|E2
+37|38|0|3|Cann, Mr. Ernest Charles|male|21.0|0|0|A./5. 2152|8.05||S|E2
+51|52|0|3|Nosworthy, Mr. Richard Cater|male|21.0|0|0|A/4. 39886|7.8||S|E2
+56|57|1|2|Rugg, Miss. Emily|female|21.0|0|0|C.A. 31026|10.5||S|E2
+60|61|0|3|Sirayanian, Mr. Orsen|male|22.0|0|0|2669|7.2292||C|E2
+72|73|0|2|Hood, Mr. Ambrose Jr|male|21.0|0|0|S.O.C. 14879|73.5||S|E2
+75|76|0|3|Moen, Mr. Sigurd Hansen|male|25.0|0|0|348123|7.65|F G73|S|E2
+80|81|0|3|Waelens, Mr. Achille|male|22.0|0|0|345767|9.0||S|E2
+88|89|1|1|Fortune, Miss. Mabel Helen|female|23.0|3|2|19950|263.0|C23 C25 C27|S|E2
+89|90|0|3|Celotti, Mr. Francesco|male|24.0|0|0|343275|8.05||S|E2
+91|92|0|3|Andreasson, Mr. Paul Edvin|male|20.0|0|0|347466|7.8542||S|E2
+97|98|1|1|Greenfield, Mr. William Bertram|male|23.0|0|1|PC 17759|63.3583|D10 D12|C|E2
+102|103|0|1|White, Mr. Richard Frasar|male|21.0|0|1|35281|77.2875|D26|S|E2
+106|107|1|3|Salkjelsvik, Miss. Anna Kristine|female|21.0|0|0|343120|7.65||S|E2
+112|113|0|3|Barton, Mr. David John|male|22.0|0|0|324669|8.05||S|E2
+113|114|0|3|Jussila, Miss. Katriina|female|20.0|1|0|4136|9.825||S|E2
+115|116|0|3|Pekoniemi, Mr. Edvard|male|21.0|0|0|STON/O 2. 3101294|7.925||S|E2
+118|119|0|1|Baxter, Mr. Quigg Edmond|male|24.0|0|1|PC 17558|247.5208|B58 B60|C|E2
+120|121|0|2|Hickman, Mr. Stanley George|male|21.0|2|0|S.O.C. 14879|73.5||S|E2
+127|128|1|3|Madsen, Mr. Fridtjof Arne|male|24.0|0|0|C 17369|7.1417||S|E2
+131|132|0|3|Coelho, Mr. Domingos Fernandeo|male|20.0|0|0|SOTON/O.Q. 3101307|7.05||S|E2
+134|135|0|2|Sobey, Mr. Samuel James Hayden|male|25.0|0|0|C.A. 29178|13.0||S|E2
+135|136|0|2|Richard, Mr. Emile|male|23.0|0|0|SC/PARIS 2133|15.0458||C|E2
+139|140|0|1|Giglio, Mr. Victor|male|24.0|0|0|PC 17593|79.2|B86|C|E2
+141|142|1|3|Nysten, Miss. Anna Sofia|female|22.0|0|0|347081|7.75||S|E2
+142|143|1|3|Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)|female|24.0|1|0|STON/O2. 3101279|15.85||S|E2
+151|152|1|1|Pears, Mrs. Thomas (Edith Wearne)|female|22.0|1|0|113776|66.6|C2|S|E2
+173|174|0|3|Sivola, Mr. Antti Wilhelm|male|21.0|0|0|STON/O 2. 3101280|7.925||S|E2
+199|200|0|2|"Yrois, Miss. Henriette (""Mrs Harbeck"")"|female|24.0|0|0|248747|13.0||S|E2
+210|211|0|3|Ali, Mr. Ahmed|male|24.0|0|0|SOTON/O.Q. 3101311|7.05||S|E2
+212|213|0|3|Perkin, Mr. John Henry|male|22.0|0|0|A/5 21174|7.25||S|E2
+225|226|0|3|Berglund, Mr. Karl Ivar Sven|male|22.0|0|0|PP 4348|9.35||S|E2
+227|228|0|3|"Lovell, Mr. John Hall (""Henry"")"|male|20.5|0|0|A/5 21173|7.25||S|E2
+234|235|0|2|Leyson, Mr. Robert William Norman|male|24.0|0|0|C.A. 29566|10.5||S|E2
+243|244|0|3|Maenpaa, Mr. Matti Alexanteri|male|22.0|0|0|STON/O 2. 3101275|7.125||S|E2
+246|247|0|3|Lindahl, Miss. Agda Thorilda Viktoria|female|25.0|0|0|347071|7.775||S|E2
+247|248|1|2|Hamalainen, Mrs. William (Anna)|female|24.0|0|2|250649|14.5||S|E2
+267|268|1|3|Persson, Mr. Ernst Ulrik|male|25.0|1|0|347083|7.775||S|E2
+271|272|1|3|Tornquist, Mr. William Henry|male|25.0|0|0|LINE|0.0||S|E2
+287|288|0|3|Naidenoff, Mr. Penko|male|22.0|0|0|349206|7.8958||S|E2
+289|290|1|3|Connolly, Miss. Kate|female|22.0|0|0|370373|7.75||Q|E2
+293|294|0|3|Haas, Miss. Aloisia|female|24.0|0|0|349236|8.85||S|E2
+294|295|0|3|Mineff, Mr. Ivan|male|24.0|0|0|349233|7.8958||S|E2
+296|297|0|3|Hanna, Mr. Mansour|male|23.5|0|0|2693|7.2292||C|E2
+310|311|1|1|Hays, Miss. Margaret Bechstein|female|24.0|0|0|11767|83.1583|C54|C|E2
+316|317|1|2|Kantor, Mrs. Sinai (Miriam Sternin)|female|24.0|1|0|244367|26.0||S|E2
+320|321|0|3|Dennis, Mr. Samuel|male|22.0|0|0|A/5 21172|7.25||S|E2
+323|324|1|2|Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)|female|22.0|1|1|248738|29.0||S|E2
+341|342|1|1|Fortune, Miss. Alice Elizabeth|female|24.0|3|2|19950|263.0|C23 C25 C27|S|E2
+343|344|0|2|Sedgwick, Mr. Charles Frederick Waddington|male|25.0|0|0|244361|13.0||S|E2
+345|346|1|2|"Brown, Miss. Amelia ""Mildred"""|female|24.0|0|0|248733|13.0|F33|S|E2
+350|351|0|3|Odahl, Mr. Nils Martin|male|23.0|0|0|7267|9.225||S|E2
+353|354|0|3|Arnold-Franchi, Mr. Josef|male|25.0|1|0|349237|17.8||S|E2
+356|357|1|1|Bowerman, Miss. Elsie Edith|female|22.0|0|1|113505|55.0|E33|S|E2
+369|370|1|1|Aubart, Mme. Leontine Pauline|female|24.0|0|0|PC 17477|69.3|B35|C|E2
+370|371|1|1|Harder, Mr. George Achilles|male|25.0|1|0|11765|55.4417|E50|C|E2
+373|374|0|1|Ringhini, Mr. Sante|male|22.0|0|0|PC 17760|135.6333||C|E2
+376|377|1|3|Landergren, Miss. Aurora Adelia|female|22.0|0|0|C 7077|7.25||S|E2
+378|379|0|3|Betros, Mr. Tannous|male|20.0|0|0|2648|4.0125||C|E2
+391|392|1|3|Jansson, Mr. Carl Olof|male|21.0|0|0|350034|7.7958||S|E2
+393|394|1|1|Newell, Miss. Marjorie|female|23.0|1|0|35273|113.275|D36|C|E2
+394|395|1|3|Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)|female|24.0|0|2|PP 9549|16.7|G6|S|E2
+395|396|0|3|Johansson, Mr. Erik|male|22.0|0|0|350052|7.7958||S|E2
+398|399|0|2|Pain, Dr. Alfred|male|23.0|0|0|244278|10.5||S|E2
+402|403|0|3|Jussila, Miss. Mari Aina|female|21.0|1|0|4137|9.825||S|E2
+404|405|0|3|Oreskovic, Miss. Marija|female|20.0|0|0|315096|8.6625||S|E2
+408|409|0|3|Birkeland, Mr. Hans Martin Monsen|male|21.0|0|0|312992|7.775||S|E2
+421|422|0|3|Charters, Mr. David|male|21.0|0|0|A/5. 13032|7.7333||Q|E2
+436|437|0|3|"Ford, Miss. Doolina Margaret ""Daisy"""|female|21.0|2|2|W./C. 6608|34.375||S|E2
+437|438|1|2|Richards, Mrs. Sidney (Emily Hocking)|female|24.0|2|3|29106|18.75||S|E2
+441|442|0|3|Hampe, Mr. Leon|male|20.0|0|0|345769|9.5||S|E2
+442|443|0|3|Petterson, Mr. Johan Emil|male|25.0|1|0|347076|7.775||S|E2
+473|474|1|2|Jerwan, Mrs. Amin S (Marie Marthe Thuillard)|female|23.0|0|0|SC/AH Basle 541|13.7917|D|C|E2
+474|475|0|3|Strandberg, Miss. Ida Sofia|female|22.0|0|0|7553|9.8375||S|E2
+478|479|0|3|Karlsson, Mr. Nils August|male|22.0|0|0|350060|7.5208||S|E2
+484|485|1|1|Bishop, Mr. Dickinson H|male|25.0|1|0|11967|91.0792|B49|C|E2
+491|492|0|3|Windelov, Mr. Einar|male|21.0|0|0|SOTON/OQ 3101317|7.25||S|E2
+494|495|0|3|Stanley, Mr. Edward Roland|male|21.0|0|0|A/4 45380|8.05||S|E2
+498|499|0|1|Allison, Mrs. Hudson J C (Bessie Waldo Daniels)|female|25.0|1|2|113781|151.55|C22 C26|S|E2
+499|500|0|3|Svensson, Mr. Olof|male|24.0|0|0|350035|7.7958||S|E2
+501|502|0|3|Canavan, Miss. Mary|female|21.0|0|0|364846|7.75||Q|E2
+514|515|0|3|Coleff, Mr. Satio|male|24.0|0|0|349209|7.4958||S|E2
+521|522|0|3|Vovk, Mr. Janko|male|22.0|0|0|349252|7.8958||S|E2
+529|530|0|2|Hocking, Mr. Richard George|male|23.0|2|1|29104|11.5||S|E2
+539|540|1|1|Frolicher, Miss. Hedwig Margaritha|female|22.0|0|2|13568|49.5|B39|C|E2
+553|554|1|3|"Leeni, Mr. Fahim (""Philip Zenni"")"|male|22.0|0|0|2620|7.225||C|E2
+554|555|1|3|Ohman, Miss. Velin|female|22.0|0|0|347085|7.775||S|E2
+565|566|0|3|Davies, Mr. Alfred J|male|24.0|2|0|A/4 48871|24.15||S|E2
+580|581|1|2|Christy, Miss. Julie Rachel|female|25.0|1|1|237789|30.0||S|E2
+588|589|0|3|Gilinski, Mr. Eliezer|male|22.0|0|0|14973|8.05||S|E2
+600|601|1|2|Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)|female|24.0|2|1|243847|27.0||S|E2
+608|609|1|2|Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)|female|22.0|1|2|SC/Paris 2123|41.5792||C|E2
+615|616|1|2|Herman, Miss. Alice|female|24.0|1|2|220845|65.0||S|E2
+622|623|1|3|Nakid, Mr. Sahid|male|20.0|1|1|2653|15.7417||C|E2
+623|624|0|3|Hansen, Mr. Henry Damsgaard|male|21.0|0|0|350029|7.8542||S|E2
+624|625|0|3|"Bowen, Mr. David John ""Dai"""|male|21.0|0|0|54636|16.1||S|E2
+627|628|1|1|Longley, Miss. Gretchen Fiske|female|21.0|0|0|13502|77.9583|D9|S|E2
+640|641|0|3|Jensen, Mr. Hans Peder|male|20.0|0|0|350050|7.8542||S|E2
+641|642|1|1|Sagesser, Mlle. Emma|female|24.0|0|0|PC 17477|69.3|B35|C|E2
+649|650|1|3|Stanley, Miss. Amy Zillah Elsie|female|23.0|0|0|CA. 2314|7.55||S|E2
+652|653|0|3|Kalvik, Mr. Johannes Halvorsen|male|21.0|0|0|8475|8.4333||S|E2
+655|656|0|2|Hickman, Mr. Leonard Mark|male|24.0|2|0|S.O.C. 14879|73.5||S|E2
+658|659|0|2|Eitemiller, Mr. George Floyd|male|23.0|0|0|29751|13.0||S|E2
+664|665|1|3|Lindqvist, Mr. Eino William|male|20.0|1|0|STON/O 2. 3101285|7.925||S|E2
+666|667|0|2|Butler, Mr. Reginald Fenton|male|25.0|0|0|234686|13.0||S|E2
+676|677|0|3|Sawyer, Mr. Frederick Charles|male|24.5|0|0|342826|8.05||S|E2
+682|683|0|3|Olsvigen, Mr. Thor Anderson|male|20.0|0|0|6563|9.225||S|E2
+685|686|0|2|Laroche, Mr. Joseph Philippe Lemercier|male|25.0|1|2|SC/Paris 2123|41.5792||C|E2
+693|694|0|3|Saad, Mr. Khalil|male|25.0|0|0|2672|7.225||C|E2
+703|704|0|3|Gallagher, Mr. Martin|male|25.0|0|0|36864|7.7417||Q|E2
+708|709|1|1|Cleaver, Miss. Alice|female|22.0|0|0|113781|151.55||S|E2
+710|711|1|1|"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")"|female|24.0|0|0|PC 17482|49.5042|C90|C|E2
+725|726|0|3|Oreskovic, Mr. Luka|male|20.0|0|0|315094|8.6625||S|E2
+728|729|0|2|Bryhl, Mr. Kurt Arnold Gottfrid|male|25.0|1|0|236853|26.0||S|E2
+729|730|0|3|Ilmakangas, Miss. Pieta Sofia|female|25.0|1|0|STON/O2. 3101271|7.925||S|E2
+733|734|0|2|Berriman, Mr. William John|male|23.0|0|0|28425|13.0||S|E2
+734|735|0|2|Troupiansky, Mr. Moses Aaron|male|23.0|0|0|233639|13.0||S|E2
+742|743|1|1|"Ryerson, Miss. Susan Parker ""Suzette"""|female|21.0|2|2|PC 17608|262.375|B57 B59 B63 B66|C|E2
+743|744|0|3|McNamee, Mr. Neal|male|24.0|1|0|376566|16.1||S|E2
+753|754|0|3|Jonkoff, Mr. Lalio|male|23.0|0|0|349204|7.8958||S|E2
+762|763|1|3|Barah, Mr. Hanna Assi|male|20.0|0|0|2663|7.2292||C|E2
+770|771|0|3|Lievens, Mr. Rene Aime|male|24.0|0|0|345781|9.5||S|E2
+784|785|0|3|Ali, Mr. William|male|25.0|0|0|SOTON/O.Q. 3101312|7.05||S|E2
+785|786|0|3|Harmer, Mr. Abraham (David Lishin)|male|25.0|0|0|374887|7.25||S|E2
+794|795|0|3|Dantcheff, Mr. Ristiu|male|25.0|0|0|349203|7.8958||S|E2
+816|817|0|3|Heininen, Miss. Wendla Maria|female|23.0|0|0|STON/O2. 3101290|7.925||S|E2
+833|834|0|3|Augustsson, Mr. Albert|male|23.0|0|0|347468|7.8542||S|E2
+836|837|0|3|Pasic, Mr. Jakob|male|21.0|0|0|315097|8.6625||S|E2
+840|841|0|3|Alhomaki, Mr. Ilmari Rudolf|male|20.0|0|0|SOTON/O2 3101287|7.925||S|E2
+858|859|1|3|Baclini, Mrs. Solomon (Latifa Qurban)|female|24.0|0|3|2666|19.2583||C|E2
+861|862|0|2|Giles, Mr. Frederick Edward|male|21.0|1|0|28134|11.5||S|E2
+864|865|0|2|Gill, Mr. John William|male|24.0|0|0|233866|13.0||S|E2
+876|877|0|3|Gustafsson, Mr. Alfred Ossian|male|20.0|0|0|7534|9.8458||S|E2
+880|881|1|2|Shelley, Mrs. William (Imanita Parrish Hall)|female|25.0|0|1|230433|26.0||S|E2
+882|883|0|3|Dahlberg, Miss. Gerda Ulrika|female|22.0|0|0|7552|10.5167||S|E2
+884|885|0|3|Sutehall, Mr. Henry Jr|male|25.0|0|0|SOTON/OQ 392076|7.05||S|E2

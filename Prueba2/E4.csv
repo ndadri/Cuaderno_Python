@@ -1,0 +1,145 @@
+|PassengerId|Survived|Pclass|Name|Sex|Age|SibSp|Parch|Ticket|Fare|Cabin|Embarked|AgeGroup
+1|2|1|1|Cumings, Mrs. John Bradley (Florence Briggs Thayer)|female|38.0|1|0|PC 17599|71.2833|C85|C|E4
+3|4|1|1|Futrelle, Mrs. Jacques Heath (Lily May Peel)|female|35.0|1|0|113803|53.1|C123|S|E4
+4|5|0|3|Allen, Mr. William Henry|male|35.0|0|0|373450|8.05||S|E4
+13|14|0|3|Andersson, Mr. Anders Johan|male|39.0|1|5|347082|31.275||S|E4
+20|21|0|2|Fynney, Mr. Joseph J|male|35.0|0|0|239865|26.0||S|E4
+21|22|1|2|Beesley, Mr. Lawrence|male|34.0|0|0|248698|13.0|D56|S|E4
+25|26|1|3|Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)|female|38.0|1|5|347077|31.3875||S|E4
+30|31|0|1|Uruchurtu, Don. Manuel E|male|40.0|0|0|PC 17601|27.7208||C|E4
+40|41|0|3|Ahlin, Mrs. Johan (Johanna Persdotter Larsson)|female|40.0|1|0|7546|9.475||S|E4
+61|62|1|1|Icard, Miss. Amelie|female|38.0|0|0|113572|80.0|B28||E4
+70|71|0|2|Jenkin, Mr. Stephen Curnow|male|32.0|0|0|C.A. 33111|10.5||S|E4
+74|75|1|3|Bing, Mr. Lee|male|32.0|0|0|1601|56.4958||S|E4
+85|86|1|3|Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)|female|33.0|3|0|3101278|15.85||S|E4
+98|99|1|2|Doling, Mrs. John T (Ada Julia Bone)|female|34.0|0|1|231919|23.0||S|E4
+99|100|0|2|Kantor, Mr. Sinai|male|34.0|1|0|244367|26.0||S|E4
+103|104|0|3|Johansson, Mr. Gustaf Joel|male|33.0|0|0|7540|8.6542||S|E4
+104|105|0|3|Gustafsson, Mr. Anders Vilhelm|male|37.0|2|0|3101276|7.925||S|E4
+108|109|0|3|Rekic, Mr. Tido|male|38.0|0|0|349249|7.8958||S|E4
+122|123|0|2|Nasser, Mr. Nicholas|male|32.5|1|0|237736|30.0708||C|E4
+123|124|1|2|Webber, Miss. Susan|female|32.5|0|0|27267|13.0|E101|S|E4
+130|131|0|3|Drazenoic, Mr. Jozef|male|33.0|0|0|349241|7.8958||C|E4
+137|138|0|1|Futrelle, Mr. Jacques Heath|male|37.0|1|0|113803|53.1|C123|S|E4
+148|149|0|2|"Navratil, Mr. Michel (""Louis M Hoffman"")"|male|36.5|0|2|230080|26.0|F2|S|E4
+153|154|0|3|van Billiard, Mr. Austin Blyler|male|40.5|0|2|A/5. 851|14.5||S|E4
+161|162|1|2|"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)"|female|40.0|0|0|C.A. 33595|15.75||S|E4
+179|180|0|3|Leonard, Mr. Lionel|male|36.0|0|0|LINE|0.0||S|E4
+188|189|0|3|Bourke, Mr. John|male|40.0|1|1|364849|15.5||Q|E4
+189|190|0|3|Turcin, Mr. Stjepan|male|36.0|0|0|349247|7.8958||S|E4
+190|191|1|2|Pinsky, Mrs. (Rosa)|female|32.0|0|0|234604|13.0||S|E4
+202|203|0|3|Johanson, Mr. Jakob Alfred|male|34.0|0|0|3101264|6.4958||S|E4
+206|207|0|3|Backstrom, Mr. Karl Alfred|male|32.0|1|0|3101278|15.85||S|E4
+209|210|1|1|Blank, Mr. Henry|male|40.0|0|0|112277|31.0|A31|C|E4
+211|212|1|2|Cameron, Miss. Clear Annie|female|35.0|0|0|F.C.C. 13528|21.0||S|E4
+218|219|1|1|Bazzani, Miss. Albina|female|32.0|0|0|11813|76.2917|D15|C|E4
+224|225|1|1|Hoyt, Mr. Frederick Maxfield|male|38.0|1|0|19943|90.0|C93|S|E4
+230|231|1|1|Harris, Mrs. Henry Birkhardt (Irene Wallach)|female|35.0|1|0|36973|83.475|C83|S|E4
+239|240|0|2|Hunt, Mr. George Henry|male|33.0|0|0|SCO/W 1585|12.275||S|E4
+248|249|1|1|Beckwith, Mr. Richard Leonard|male|37.0|1|1|11751|52.5542|D35|S|E4
+254|255|0|3|Rosblom, Mrs. Viktor (Helena Wilhelmina)|female|41.0|0|2|370129|20.2125||S|E4
+258|259|1|1|Ward, Miss. Anna|female|35.0|0|0|PC 17755|512.3292||C|E4
+263|264|0|1|Harrison, Mr. William|male|40.0|0|0|112059|0.0|B94|S|E4
+265|266|0|2|Reeves, Mr. David|male|36.0|0|0|C.A. 17248|10.5||S|E4
+269|270|1|1|Bissette, Miss. Amelia|female|35.0|0|0|PC 17760|135.6333|C99|S|E4
+272|273|1|2|Mellinger, Mrs. (Elizabeth Anne Maidment)|female|41.0|0|1|250644|19.5||S|E4
+273|274|0|1|Natsch, Mr. Charles H|male|37.0|0|1|PC 17596|29.7|C118|C|E4
+279|280|1|3|Abbott, Mrs. Stanton (Rosa Hunt)|female|35.0|1|1|C.A. 2673|20.25||S|E4
+285|286|0|3|Stankovic, Mr. Ivan|male|33.0|0|0|349239|8.6625||C|E4
+292|293|0|2|Levy, Mr. Rene Jacques|male|36.0|0|0|SC/Paris 2163|12.875|D|C|E4
+319|320|1|1|Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)|female|40.0|1|1|16966|134.5|E34|C|E4
+325|326|1|1|Young, Miss. Marie Grice|female|36.0|0|0|PC 17760|135.6333|C32|C|E4
+327|328|1|2|Ball, Mrs. (Ada E Hall)|female|36.0|0|0|28551|13.0|D|S|E4
+332|333|0|1|Graham, Mr. George Edward|male|38.0|0|1|PC 17582|153.4625|C91|S|E4
+337|338|1|1|Burns, Miss. Elizabeth Margaret|female|41.0|0|0|16966|134.5|E40|C|E4
+344|345|0|2|Fox, Mr. Stanley Hubert|male|36.0|0|0|229236|13.0||S|E4
+346|347|1|2|Smith, Miss. Marion Elsie|female|40.0|0|0|31418|13.0||S|E4
+357|358|0|2|Funk, Miss. Annie Clemmer|female|38.0|0|0|237671|13.0||S|E4
+360|361|0|3|Skoog, Mr. Wilhelm|male|40.0|1|4|347088|27.9||S|E4
+363|364|0|3|Asim, Mr. Adola|male|35.0|0|0|SOTON/O.Q. 3101310|7.05||S|E4
+382|383|0|3|Tikkanen, Mr. Juho|male|32.0|0|0|STON/O 2. 3101293|7.925||S|E4
+383|384|1|1|Holverson, Mrs. Alexander Oskar (Mary Aline Towner)|female|35.0|1|0|113789|52.0||S|E4
+387|388|1|2|Buss, Miss. Kate|female|36.0|0|0|27849|13.0||S|E4
+390|391|1|1|Carter, Mr. William Ernest|male|36.0|1|2|113760|120.0|B96 B98|S|E4
+400|401|1|3|Niskanen, Mr. Juha|male|39.0|0|0|STON/O 2. 3101289|7.925||S|E4
+405|406|0|2|Gale, Mr. Shadrach|male|34.0|1|0|28664|21.0||S|E4
+412|413|1|1|Minahan, Miss. Daisy E|female|33.0|1|0|19928|90.0|C78|Q|E4
+416|417|1|2|Drew, Mrs. James Vivian (Lulu Thorne Christian)|female|34.0|1|1|28220|32.5||S|E4
+429|430|1|3|Pickard, Mr. Berk (Berk Trembisky)|male|32.0|0|0|SOTON/O.Q. 392078|8.05|E10|S|E4
+447|448|1|1|Seward, Mr. Frederic Kimber|male|34.0|0|0|113794|26.55||S|E4
+450|451|0|2|West, Mr. Edwy Arthur|male|36.0|1|2|C.A. 34651|27.75||S|E4
+461|462|0|3|Morley, Mr. William|male|34.0|0|0|364506|8.05||S|E4
+465|466|0|3|Goncalves, Mr. Manuel Estanslas|male|38.0|0|0|SOTON/O.Q. 3101306|7.05||S|E4
+471|472|0|3|Cacic, Mr. Luka|male|38.0|0|0|315089|8.6625||S|E4
+472|473|1|2|West, Mrs. Edwy Arthur (Ada Mary Worth)|female|33.0|1|2|C.A. 34651|27.75||S|E4
+476|477|0|2|Renouf, Mr. Peter Henry|male|34.0|1|0|31027|21.0||S|E4
+486|487|1|1|Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)|female|35.0|1|0|19943|90.0|C93|S|E4
+503|504|0|3|Laitinen, Miss. Kristina Sofia|female|37.0|0|0|4135|9.5875||S|E4
+506|507|1|2|Quick, Mrs. Frederick Charles (Jane Richards)|female|33.0|0|2|26360|26.0||S|E4
+512|513|1|1|McGough, Mr. James Robert|male|36.0|0|0|PC 17473|26.2875|E25|S|E4
+516|517|1|2|Lemore, Mrs. (Amelia Milley)|female|34.0|0|0|C.A. 34260|10.5|F33|S|E4
+518|519|1|2|"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)"|female|36.0|1|0|226875|26.0||S|E4
+519|520|0|3|Pavlovic, Mr. Stefo|male|32.0|0|0|349242|7.8958||S|E4
+525|526|0|3|Farrell, Mr. James|male|40.5|0|0|367232|7.75||Q|E4
+528|529|0|3|Salonen, Mr. Johan Werner|male|39.0|0|0|3101296|7.925||S|E4
+540|541|1|1|Crosby, Miss. Harriet R|female|36.0|0|2|WE/P 5735|71.0|B22|S|E4
+543|544|1|2|Beane, Mr. Edward|male|32.0|1|0|2908|26.0||S|E4
+548|549|0|3|Goldsmith, Mr. Frank John|male|33.0|1|1|363291|20.525||S|E4
+558|559|1|1|Taussig, Mrs. Emil (Tillie Mandelbaum)|female|39.0|1|1|110413|79.65|E67|S|E4
+559|560|1|3|de Messemaeker, Mrs. Guillaume Joseph (Emma)|female|36.0|1|0|345572|17.4||S|E4
+561|562|0|3|Sivic, Mr. Husein|male|40.0|0|0|349251|7.8958||S|E4
+569|570|1|3|Jonsson, Mr. Carl|male|32.0|0|0|350417|7.8542||S|E4
+572|573|1|1|"Flynn, Mr. John Irwin (""Irving"")"|male|36.0|0|0|PC 17474|26.3875|E25|S|E4
+576|577|1|2|Garside, Miss. Ethel|female|34.0|0|0|243880|13.0||S|E4
+577|578|1|1|Silvey, Mrs. William Baird (Alice Munger)|female|39.0|1|0|13507|55.9|E44|S|E4
+579|580|1|3|Jussila, Mr. Eiriik|male|32.0|0|0|STON/O 2. 3101286|7.925||S|E4
+581|582|1|1|Thayer, Mrs. John Borland (Marian Longstreth Morris)|female|39.0|1|1|17421|110.8833|C68|C|E4
+583|584|0|1|Ross, Mr. John Hugo|male|36.0|0|0|13049|40.125|A10|C|E4
+590|591|0|3|Rintamaki, Mr. Matti|male|35.0|0|0|STON/O 2. 3101273|7.125||S|E4
+594|595|0|2|Chapman, Mr. John Henry|male|37.0|1|0|SC/AH 29037|26.0||S|E4
+595|596|0|3|Van Impe, Mr. Jean Baptiste|male|36.0|1|1|345773|24.15||S|E4
+604|605|1|1|"Homer, Mr. Harry (""Mr E Haven"")"|male|35.0|0|0|111426|26.55||C|E4
+605|606|0|3|Lindell, Mr. Edvard Bengtsson|male|36.0|1|0|349910|15.55||S|E4
+609|610|1|1|Shutes, Miss. Elizabeth W|female|40.0|0|0|PC 17582|153.4625|C125|S|E4
+610|611|0|3|Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)|female|39.0|1|5|347082|31.275||S|E4
+614|615|0|3|Brocklebank, Mr. William Alfred|male|35.0|0|0|364512|8.05||S|E4
+616|617|0|3|Danbom, Mr. Ernst Gilbert|male|34.0|1|1|347080|14.4||S|E4
+632|633|1|1|Stahelin-Maeglin, Dr. Max|male|32.0|0|0|13214|30.5|B50|C|E4
+636|637|0|3|Leinonen, Mr. Antti Gustaf|male|32.0|0|0|STON/O 2. 3101292|7.925||S|E4
+638|639|0|3|Panula, Mrs. Juha (Maria Emilia Ojala)|female|41.0|0|5|3101295|39.6875||S|E4
+657|658|0|3|Bourke, Mrs. John (Catherine)|female|32.0|1|1|364849|15.5||Q|E4
+661|662|0|3|Badt, Mr. Mohamed|male|40.0|0|0|2623|7.225||C|E4
+663|664|0|3|Coleff, Mr. Peju|male|36.0|0|0|349210|7.4958||S|E4
+665|666|0|2|Hickman, Mr. Lewis|male|32.0|2|0|S.O.C. 14879|73.5||S|E4
+670|671|1|2|Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)|female|40.0|1|1|29750|39.0||S|E4
+679|680|1|1|Cardeza, Mr. Thomas Drake Martinez|male|36.0|0|1|PC 17755|512.3292|B51 B53 B55|C|E4
+701|702|1|1|Silverthorne, Mr. Spencer Victor|male|35.0|0|0|PC 17475|26.2875|E24|S|E4
+705|706|0|2|"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")"|male|39.0|0|0|250655|26.0||S|E4
+716|717|1|1|Endres, Miss. Caroline Louise|female|38.0|0|0|PC 17757|227.525|C45|C|E4
+719|720|0|3|Johnson, Mr. Malkolm Joackim|male|33.0|0|0|347062|7.775||S|E4
+722|723|0|2|Gillespie, Mr. William Henry|male|34.0|0|0|12233|13.0||S|E4
+737|738|1|1|Lesurer, Mr. Gustave J|male|35.0|0|0|PC 17755|512.3292|B101|C|E4
+741|742|0|1|Cavendish, Mr. Tyrell William|male|36.0|1|0|19877|78.85|C46|S|E4
+752|753|0|3|Vande Velde, Mr. Johannes Joseph|male|33.0|0|0|345780|9.5||S|E4
+758|759|0|3|Theobald, Mr. Thomas Leonard|male|34.0|0|0|363294|8.05||S|E4
+759|760|1|1|Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)|female|33.0|0|0|110152|86.5|B77|S|E4
+761|762|0|3|Nirva, Mr. Iisakki Antino Aijo|male|41.0|0|0|SOTON/O2 3101272|7.125||S|E4
+763|764|1|1|Carter, Mrs. William Ernest (Lucile Polk)|female|36.0|1|2|113760|120.0|B96 B98|S|E4
+769|770|0|3|Gronnestad, Mr. Daniel Danielsen|male|32.0|0|0|8471|8.3625||S|E4
+795|796|0|2|Otter, Mr. Richard|male|39.0|0|0|28213|13.0||S|E4
+800|801|0|2|Ponesell, Mr. Martin|male|34.0|0|0|250647|13.0||S|E4
+806|807|0|1|Andrews, Mr. Thomas Jr|male|39.0|0|0|112050|0.0|A36|S|E4
+808|809|0|2|Meyer, Mr. August|male|39.0|0|0|248723|13.0||S|E4
+809|810|1|1|Chambers, Mrs. Norman Campbell (Bertha Griggs)|female|33.0|1|0|113806|53.1|E8|S|E4
+811|812|0|3|Lester, Mr. James|male|39.0|0|0|A/4 48871|24.15||S|E4
+812|813|0|2|Slemen, Mr. Richard James|male|35.0|0|0|28206|10.5||S|E4
+822|823|0|1|Reuchlin, Jonkheer. John George|male|38.0|0|0|19972|0.0||S|E4
+835|836|1|1|Compton, Miss. Sara Rebecca|female|39.0|1|1|PC 17756|83.1583|E49|C|E4
+838|839|1|3|Chip, Mr. Chang|male|32.0|0|0|1601|56.4958||S|E4
+843|844|0|3|Lemberopolous, Mr. Peter L|male|34.5|0|0|2683|6.4375||C|E4
+847|848|0|3|Markoff, Mr. Marin|male|35.0|0|0|349213|7.8958||C|E4
+860|861|0|3|Hansen, Mr. Claus Peter|male|41.0|2|0|350026|14.1083||S|E4
+872|873|0|1|Carlsson, Mr. Frans Olof|male|33.0|0|0|695|5.0|B51 B53 B55|S|E4
+881|882|0|3|Markun, Mr. Johann|male|33.0|0|0|349257|7.8958||S|E4
+885|886|0|3|Rice, Mrs. William (Margaret Norton)|female|39.0|0|5|382652|29.125||Q|E4
+890|891|0|3|Dooley, Mr. Patrick|male|32.0|0|0|370376|7.75||Q|E4
